@@ -17,11 +17,16 @@ This project is an interactive Sales Analytics Dashboard built in Microsoft Exce
 - Pivot Charts
 - Slicers
 - Conditional Formatting
-
+## Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- KPI Reporting
+- Dashboard Design  
+  
 ## Files
 - Sales_Analytics_Dashboard.xlsx
-- sales_messy_dataset_cleaned-RUHI.xlsx
-- dashboard.png.jpeg
+- dashboard.png
 ## Dashboard Screenshot
 
 ![Sales Analytics Dashboard](dashboard.png)
