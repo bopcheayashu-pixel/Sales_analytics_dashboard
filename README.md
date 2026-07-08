@@ -22,3 +22,6 @@ This project is an interactive Sales Analytics Dashboard built in Microsoft Exce
 - Sales_Analytics_Dashboard.xlsx
 - sales_messy_dataset_cleaned-RUHI.xlsx
 - dashboard.png.jpeg
+## Dashboard Screenshot
+
+![Sales Analytics Dashboard](dashboard.png)
